@@ -21,3 +21,12 @@ div {
     margin-left: auto;
     margin-right: auto;
 }
+
+.description {
+    background-image: linear-gradient(blue, green);
+    font-weight: 100;
+}
+
+.items {
+    color: rgb(54, 2, 65);
+}
