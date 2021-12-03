@@ -1,4 +1,7 @@
-
+* {
+    padding: 10px;
+    box-sizing: border-box;
+}
 
 div {
     color: white;
@@ -10,6 +13,10 @@ div {
     background-image: linear-gradient(rgb(13, 13, 192), rgb(6, 6, 90));
     color: yellow;
     text-align: center;
+    height: 100px;
+    width: 1000px;
+    padding: 35px;
+    margin: auto;
 }
 
 * {
